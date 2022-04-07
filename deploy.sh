@@ -29,6 +29,7 @@ git commit -m 'deploy'
 #https://github.com/wusheng0109/ws-ui.github.io.git
 #git remote add origin https://github.com/wusheng0109/ws-ui.github.io.git
 #git remote set-url origin https://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@github.com/wusheng0109/ws-ui.github.io.git
+#git push -f https://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@github.com/wusheng0109/ws-ui.git master:gh-pages
 git push -f https://github.com/wusheng0109/ws-ui.git master:gh-pages
 
 cd -
